@@ -1,58 +1,58 @@
-<h1 align="center">Hey 👋, I'm Hassaan Gillani</h1>
-<h3 align="center">AI & Cybersecurity | Red Team | Python Automation</h3>
+# ┌─[ HG-Cyberops@github ]─[~]
+# └──╼ whoami
+**HG-Cyberops — AI & Cybersecurity Operator**
 
----
+──────┐
+│ ▸ Mission: Build AI-driven offensive & defensive tools │
+│ ▸ Focus: Red Teaming · Automation · Threat Research │
+│ ▸ Contact: gillani.x.ai@gmail.com
+ │
+└─────────────────────────────────────────────────────────────┘
+## ░ operator status
+- **Handle:** `HG-Cyberops`  
+- **Location:** Pakistan  
+- **Stack:** Python · Bash · Linux · OpenAI · LangChain · Nmap · Burp · Wireshark  
+- **Current:** Building AI Threat Scanner & Cyber Automation Toolkit
 
-### 🚀 About Me
-I’m on a mission to build **elite AI-powered cybersecurity skills** — from offensive penetration testing to automated security tools that detect and stop threats in real time.
+## ░ quick commands
+```bash░ projects (short)
 
-I believe in **smart work + hard execution**. Learning daily. Building daily.
+AI Threat Scanner — AI-assisted suspicious-activity detection (WIP)
 
----
+Cyber Automation Toolkit — reusable pentest automation scripts
 
-### 🔥 Current Direction
-- AI for Cybersecurity Automation
-- Red Team Tools & Attack Simulations
-- Python for Security Scripts
-- Linux + Networking + System Security
-- Bug Bounty | OSINT | Cyber Research
+Red Team Labs — attack simulations & step-by-step writeups
 
----
+OSINT Tracker — lightweight intel-gathering tooling
 
-### 🛠️ Skills & Tools
-| Category | Tools |
-|----------|-------|
-| Languages | Python, Bash |
-| Cybersecurity | Nmap, Burp Suite, Metasploit, Wireshark, Hydra |
-| AI | LangChain, OpenAI |
-| OS | Kali Linux, Ubuntu |
-| Version Control | Git & GitHub |
+All projects are for lab, research, and responsible disclosure purposes only. No harmful distribution.
 
----
+░ skills matrix[ Python     ] ██████████  (automation, parsing, ML pipelines)
+[ Linux      ] █████████   (kali, bash, tooling)
+[ Networking ] ███████     (pcap, tcp/ip, analysis)
+[ WebSec     ] ███████     (recon, xss, sqli, burp)
+[ AI         ] ███████     (LangChain, OpenAI, prompt engineering)
+░ roadmap (short)
 
-### 📂 Featured Projects
-Coming soon:
-- AI Threat Scanner
-- Cyber Automation Toolkit
-- Red Team Attack Scripts
-- OSINT Recon Tool
+Q4 2025 — public AI-powered PoC
 
----
+Publish 3 lab writeups (red team + websec)
 
-### 📚 Roadmap 2025
-✔ Python Mastery  
-✔ Git + GitHub Portfolio  
-🔄 AI Security Projects  
-🔄 Bug Bounty + Pentesting  
-🔄 Certifications (TryHackMe, EJPT, CEH)  
+Release automation modules on GitHub / PyPI
 
----
+Active bug bounty participation & responsible reports
 
-### 🌐 Connect with Me
-- 📧 Email: gillani.x.ai@gmail.com
-- 💻 Portfolio: Coming Soon
-- 🔗 LinkedIn: www.linkedin.com/in/hassaan-gillani
+░ rules of engagement
 
----
+Follow responsible disclosure policies
 
-⭐ **Follow my journey** — more tools and security research coming soon.
+Share tools for education & labs only
+
+No distribution of harmful exploits
+⟨exit⟩ — Star the repos to follow progress: https://github.com/HG-Cyberops/gillani-x-ai
+# set local git identity (for commits)
+git config --global user.name "HG-Cyberops"
+git config --global user.email "gillani.x.ai@gmail.com"
+
+# clone portfolio
+git clone https://github.com/HG-Cyberops/gillani-x-ai.git
